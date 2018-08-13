@@ -1,10 +1,17 @@
 Phil Tenteromano
 ----------------
+[github](https://github.com/ptenteromano) |
+[linkedIn](https://www.linkedin.com/in/tenteromano/) |
+[twitter](https://twitter.com/ptenteromano)
 
 Welcome to my github pages static website where I'll try to keep things short and sweet.
 My goal for this repository / website is to have a place to talk about where I am today, where I came from, and how I got here.
 
 I hope you enjoy my story.
+
+>"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education."
+
+>-Martin Luther King, Jr.
 
 ### The U.S. Army
 
@@ -59,6 +66,3 @@ I started with C++ when I first started Fordham more than 2 years ago. I also ha
 * JavaScript - I am currently working on a React and Node.js Course to deepend my JS skills
 * HTML / CSS - Where would any good programmer be without these two?
 * Always learning!
-
-
-[Link](url) and ![Image](src)
