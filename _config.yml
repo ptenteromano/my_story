@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
+baseurl: "/my_story"
+url: "https://ptenteromano.github.io/"
 future: true
 timezone: America/New_York
