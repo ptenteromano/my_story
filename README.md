@@ -138,8 +138,8 @@ console.log(max_sliding_window(a, 5));
 
 ```
 
-![alt](/army.jpg "Army") 
-![alt](/fordham_university.jpg "Fordham")
+![alt]({{site.url}}{{site.baseurl}}/army.jpg "Army") 
+![alt]({{site.url}}{{site.baseurl}}/fordham_university.jpg "Fordham")
 
 I plan on putting my React skills to the test to revamp this site using React. Coming Soon.
 
