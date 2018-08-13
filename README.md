@@ -10,8 +10,7 @@ My goal for this repository / website is to have a place to talk about where I a
 I hope you enjoy my story.
 
 >"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education."
-
->-Martin Luther King, Jr.
+-Martin Luther King, Jr.
 
 ### The U.S. Army
 
