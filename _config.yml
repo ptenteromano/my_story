@@ -3,3 +3,5 @@ baseurl: "/my_story"
 url: "https://ptenteromano.github.io/"
 future: true
 timezone: America/New_York
+title: my_story
+description: From Soldier to Software
