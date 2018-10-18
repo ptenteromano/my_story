@@ -6,5 +6,4 @@ timezone: America/New_York
 title: my_story
 description: From Soldier to Software
 github:
-  repository_url: https://github.com/ptenteromano
-  target: blank
+  is_project_page: false
