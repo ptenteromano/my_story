@@ -1,8 +1,8 @@
 Phil Tenteromano
 ----------------
-<a href="https://github.com/ptenteromano" target="_blank">github</a> |
+<a href="https://github.com/ptenteromano/" target="_blank">github</a> |
 <a href="https://www.linkedin.com/in/tenteromano/" target="_blank">linkedin</a> |
-<a href="https://twitter.com/ptenteromano" target="_blank">twitter</a>
+<a href="https://twitter.com/ptenteromano/" target="_blank">twitter</a>
 
 Welcome to my github pages static website where I'll try to keep things short and sweet.
 My goal for this repository / website is to have a place to talk about where I am today, where I came from, and how I got here.
