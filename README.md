@@ -1,6 +1,6 @@
 Phil Tenteromano
 ----------------
-[github](https://github.com/ptenteromano) |
+<a href="https://github.com/ptenteromano" target="_blank">Github</a> |
 [linkedIn](https://www.linkedin.com/in/tenteromano/) |
 [twitter](https://twitter.com/ptenteromano)
 
