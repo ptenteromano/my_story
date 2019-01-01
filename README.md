@@ -4,8 +4,8 @@ Phil Tenteromano
 <a href="https://www.linkedin.com/in/tenteromano/" target="_blank">linkedin</a> |
 <a href="https://twitter.com/ptenteromano/" target="_blank">twitter</a>
 
-Welcome to my github pages static website where I'll try to keep things short and sweet.
-My goal for this repository / website is to have a place to talk about where I am today, where I came from, and how I got here.
+Welcome to my Github pages static website where I'll try to keep things short and sweet.
+My goal for this repository/website is to have a place to talk about where I am today, where I came from, and how I got here.
 
 I hope you enjoy my story.
 
@@ -13,7 +13,7 @@ I hope you enjoy my story.
 
 ### The U.S. Army
 
-Before joining the military, I had done two semesters in college and just didn't know what I wanted to do. After some thought and reflection, I decided to join the Army in 2012 as a way of serving my country and myself. I served four years on Active duty from _2012 - May 2016_. I can honestly say my time in the military was one of the best experiences of my life. I am forever greatful for the friendships I made and the places I've been to and the skills I've learned.
+Before joining the military, I had done two semesters in college and just didn't know what I wanted to do. After some thought and reflection, I decided to join the Army in 2012 as a way of serving my country and myself. I served four years on Active duty from _2012 - May 2016_. I can honestly say my time in the military was one of the best experiences of my life. I am forever grateful for the friendships I made and the places I've been to and the skills I've learned.
 
 Some of the places I've been to in my four years:
 * Virginia, South Carolina for Training
