@@ -138,7 +138,7 @@ console.log(max_sliding_window(a, 5));
 
 ```
 
-<div style="margin: auto;">
+<div style="margin: auto; text-align: center;" markdown="1">
 ![alt]({{site.url}}{{site.baseurl}}/army.jpg "Army") 
 ![alt]({{site.url}}{{site.baseurl}}/fordham_university.jpg "Fordham")
 </div>
